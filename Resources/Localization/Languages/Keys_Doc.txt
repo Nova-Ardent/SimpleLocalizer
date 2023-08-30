@@ -1,20 +1,7 @@
 {
-  "Dog": "",
-  "Dutch": "Utilities.Localization.Localized.Languages.Dutch",
+  "Dog": "Utilities.Localization.Localized.Animals.Dog",
   "English_NA": "Utilities.Localization.Localized.Languages.English_NA",
-  "French": "Utilities.Localization.Localized.Languages.French",
-  "German": "Utilities.Localization.Localized.Languages.German",
-  "Italian": "Utilities.Localization.Localized.Languages.Italian",
   "Keys_Doc": "Utilities.Localization.Localized.Languages.Keys_Doc",
   "Spanish": "Utilities.Localization.Localized.Languages.Spanish",
-  "Test1": "Utilities.Localization.Localized.Test.Test1",
-  "Test2": "Utilities.Localization.Localized.Test.Test2",
-  "Test3": "Utilities.Localization.Localized.Test.Test3",
-  "Test4": "Utilities.Localization.Localized.Test.Test4",
-  "Test5": "Utilities.Localization.Localized.Test.Test5",
-  "Test6": "Utilities.Localization.Localized.Test.Test6",
-  "Test7": "Utilities.Localization.Localized.Test.Test7",
-  "Test8": "Utilities.Localization.Localized.Test.Test8",
-  "Test9": "Utilities.Localization.Localized.Test.Test9",
-  "WhereIsMy_X": ""
+  "WhereIsMy_X": "Utilities.Localization.Localized.Questions.WhereIsMy_X"
 }

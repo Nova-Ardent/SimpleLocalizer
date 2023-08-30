@@ -1,20 +1,7 @@
 {
-  "Dog": "Perro",
-  "Dutch": "",
-  "English_NA": "",
-  "French": "",
-  "German": "",
-  "Italian": "",
+  "Dog": "perro",
+  "English_NA": "ingl�s",
   "Keys_Doc": "",
-  "Spanish": "",
-  "Test1": "",
-  "Test2": "",
-  "Test3": "",
-  "Test4": "",
-  "Test5": "",
-  "Test6": "",
-  "Test7": "",
-  "Test8": "",
-  "Test9": "",
-  "WhereIsMy_X": "¿Dónde está mi {0}?"
+  "Spanish": "espanol",
+  "WhereIsMy_X": "Donde esta mi {0}?"
 }

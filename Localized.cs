@@ -10,22 +10,6 @@ namespace Utilities.Localization
 {
     public partial class Localized
     {
-        public enum Animals
-        {
-            Dog,
-        }
-        
-        public enum Questions
-        {
-            WhereIsMy_X
-        }
-    }
-}
-
-namespace Utilities.Localization
-{
-    public partial class Localized
-    {
         private static Localized _instance;
         public static Localized Instance
         {
